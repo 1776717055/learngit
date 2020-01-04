@@ -1,3 +1,4 @@
-<?
-echo '你不真好呀呀呀呀啊实打实';
+<?php
+echo 'hahahahha';
+
 ?>
